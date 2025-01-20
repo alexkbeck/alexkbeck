@@ -1,4 +1,5 @@
 # Alex Beck - Personal Github Repo
+* Agentic AI
 * Data Engineering
 * Data Analysis
 * Machine Learning
