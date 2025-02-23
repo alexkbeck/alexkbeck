@@ -1,4 +1,4 @@
-# Alex Beck - Personal Github Repo
+# Alex Beck - Data & Analytics Leader
 * Agentic AI
 * Data Engineering
 * Data Analysis
