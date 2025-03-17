@@ -1,6 +1,6 @@
 # 👋 Hi Github, my name is Alex. 
 Here's a little about me:
-* Located in Southern California
+* Located in southern California
 * Interested in:
   * data
   * analytics
